@@ -1,0 +1,19 @@
+.transactionHistory {
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.head,
+th,
+td {
+    border: 1px solid;
+}
+
+.head {
+    background-color: grey;
+    color: #ffff;
+}
+
